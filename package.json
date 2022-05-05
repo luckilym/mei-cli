@@ -1,13 +1,13 @@
 {
   "name": "luckilym-cli",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "luckilym create model",
   "main": "index.js",
   "scripts": {
     "test": "test"
   },
-  "bin":{
-    "mei":"index.js"
+  "bin": {
+    "mei": "index.js"
   },
   "author": "luckilym",
   "license": "ISC",
