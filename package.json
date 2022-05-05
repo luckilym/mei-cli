@@ -6,7 +6,9 @@
   "scripts": {
     "test": "test"
   },
-  "bin": "mei index.js",
+  "bin":{
+    "mei":"index.js"
+  },
   "author": "luckilym",
   "license": "ISC"
 }
